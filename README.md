@@ -29,7 +29,7 @@ Olá! Meu nome é Taiguara Cavaliere, sou formado em engenharia civil, apaixonad
 
 <div>
   <a href="https://taiguaracsp.github.io/" target="_blank">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=taiguaracsp&show_icons=true&inclue_allcomits=true&count_private=true&theme=github_dark" />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiguaracsp&show_icons=true&layout=compact&langs_count=10&theme=github_dark" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=taiguaracsp&show_icons=true&inclue_allcomits=true&count_private=true&theme=github_dark" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiguaracsp&show_icons=true&layout=compact&langs_count=10&theme=github_dark" />
   </a>
 </div>
